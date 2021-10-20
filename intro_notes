@@ -1,0 +1,12 @@
+1. Django is a high-level Python web framework that enables rapid development of secure and maintainable websites
+2. Philosophies of django - Loosely coupled, less coding, don't repeat yourself, fast development, clean design.
+3. Advantages - 
+  a) ORM support
+  b) multilingual support
+  c) administration gui 
+  d) framework support - Django had built-in support for Ajax, RSS, Caching and various other frameworks
+  e) development environment - Django comes with a lightweight web server to facilitate end-to-end application development and testing.
+4. Django is "somewhat opinionated", and hence delivers the "best of both worlds". It provides a set of components to handle most web development tasks and one (or two) preferred ways to use them. However, Django's decoupled architecture means that you can usually pick and choose from a number of different options, or add support for completely new ones if desired.
+
+
+
